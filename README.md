@@ -649,6 +649,7 @@ Daily games receiving notable attention this month.
 - [guessNow](https://guessnow.fun) — Guess the year a real archival photograph was taken, revealed piece by piece. · [Daily Game Index](https://dailygameindex.com/games/guessnow/)
 - [Headlines](https://www.headlines.games/) — Guess the year associated with the displayed headlines. · [Daily Game Index](https://dailygameindex.com/games/headlines/)
 - [hisorty](https://hisorty.app/) — A daily puzzle game where you sort historical events into chronological order. · [Daily Game Index](https://dailygameindex.com/games/hisorty/)
+- [HistoriaQuest](https://historiaquest.com/) — In HistoriaQuest, find the oldest, the youngest. · [Daily Game Index](https://dailygameindex.com/games/historiaquest/)
 - [Historydle](https://historydle.com/) — Identify famous historical figures from clues, quotes, and portraits. · [Daily Game Index](https://dailygameindex.com/games/historydle/)
 - [MapTap](https://maptap.gg/) — Find five places on a rotatable 3D globe, using a short historical or geographic prompt before committing each tap. · [Daily Game Index](https://dailygameindex.com/games/maptap/)
 - [Past Puzzle](https://www.pastpuzzle.de/) — Guess the year from four historical clues. · [Daily Game Index](https://dailygameindex.com/games/past-puzzle/)
